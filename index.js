@@ -10,7 +10,7 @@ const pool = new Pool({
     database: "tmdb"
 })
 
-const API_KEY = 'bbb0e77b94b09193e6f32d5fac7a3b9c' // Our API key
+const API_KEY = '#######################' // Enter your API key here
 
 ;(async () => {
     let creditsData = {}
